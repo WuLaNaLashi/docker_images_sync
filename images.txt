@@ -1,1 +1,1 @@
-doocs/md:latest
+docker.io/library/node:lts-slim
